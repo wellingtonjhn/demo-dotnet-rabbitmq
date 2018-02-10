@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMqDemo.Consumer", "RabbitMqDemo\RabbitMqDemo.Consumer.csproj", "{7AF05301-21BD-45AE-9F97-F139A8904F10}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMqDemo.Consumer", "src\RabbitMqDemo.Consumer\RabbitMqDemo.Consumer.csproj", "{7AF05301-21BD-45AE-9F97-F139A8904F10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMqDemo.Publisher", "RabbitMqDemo.Publisher\RabbitMqDemo.Publisher.csproj", "{B53056F3-A6CC-46FC-B200-17630A6EEF11}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMqDemo.Publisher", "src\RabbitMqDemo.Publisher\RabbitMqDemo.Publisher.csproj", "{B53056F3-A6CC-46FC-B200-17630A6EEF11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMqDemo.Messages", "RabbitMqDemo.Messages\RabbitMqDemo.Messages.csproj", "{FF038D66-B6C7-46BB-87B3-68E22D770AC8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMqDemo.Messages", "src\RabbitMqDemo.Messages\RabbitMqDemo.Messages.csproj", "{FF038D66-B6C7-46BB-87B3-68E22D770AC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
